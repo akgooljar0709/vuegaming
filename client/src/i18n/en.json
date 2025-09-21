@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "GameHub",
+    "welcome": "Welcome to GameHub",
+    "login": "Login",
+    "logout": "Logout",
+    "header": {
+      "home": "Home",
+      "games": "Games",
+      "favorites": "Favorites",
+      "reviews": "Reviews",
+      "dashboard": "Dashboard",
+      "admin": "Admin Panel"
+    }
+  }
+}

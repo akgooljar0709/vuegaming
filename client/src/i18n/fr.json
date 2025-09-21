@@ -1,0 +1,8 @@
+{
+  "app": {
+    "title": "GameHub",
+    "welcome": "Bienvenue sur GameHub",
+    "login": "Se connecter",
+    "logout": "Se déconnecter"
+  }
+}
